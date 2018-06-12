@@ -6,6 +6,7 @@
 	<artifactId>MiniBlog_Parent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+	<!-- sssssssssssssssssssssss -->
 	<!-- 集中定义依赖版本号 -->
 	<properties>
 		<junit.version>4.12</junit.version>
